@@ -1,6 +1,7 @@
 
 javascript
 REPL Read Evaluate Print Loop
+Fouc [Flash of unstyled Content]  1.css 2.html 3.Javascript
 
 shortcuts:-
 
