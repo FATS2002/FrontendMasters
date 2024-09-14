@@ -1,14 +1,14 @@
 
 javascript
-REPL Read eval print loop
+REPL Read Evaluate Print Loop
 
 shortcuts:-
 
-1. Ctrl +Shift +i
-2. ctrl+F5 refresh
+1. ctrl+ shift + i [developerTools]
+2. ctrl+F5 [refresh]
 
 
-Fouc flash of unstyle content  1st css 2nd html 3rd javascript--> 
+Fouc [Flash of unstyled Content]  1.css 2.html 3.Javascript
 
 
 css links:-
