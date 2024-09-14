@@ -2,8 +2,10 @@
 javascript
 REPL Read eval print loop
 
-Ctrl +Shift +i
-ctrl+F5 refresh
+shortcuts:-
+
+1. Ctrl +Shift +i
+2. ctrl+F5 refresh
 
 
 Fouc flash of unstyle content  1st css 2nd html 3rd javascript--> 
