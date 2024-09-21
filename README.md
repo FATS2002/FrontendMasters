@@ -25,12 +25,12 @@ css links:-
 
 | Description                                             | Link                                                        |
 |---------------------------------------------------------|-------------------------------------------------------------|
-| Comprehensive Index of CSS Properties                   | [Meiert's CSS Properties](https://meiert.com/en/indices/css-properties/) |
-| Guide to Color on the Web                               | [CSS-Tricks: Nerd's Guide to Color](https://css-tricks.com/nerds-guide-color-web/) |
-| CodePen Example - CSS                                   | [CodePen: CSS Example](https://codepen.io/btholt/pen/ELaxOB?editors=1100) |
-| Complete Intro to Web Dev - CSS Pseudo-classes and Pseudo-elements | [Btholt's Web Dev Intro](https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/css/pseudoclasses-and-pseudoelements) |
-| Overview of CSS Pseudo-classes                         | [CSS-Tricks: Pseudo-Class Selectors](https://css-tricks.com/pseudo-class-selectors/) |
-| Browser Support for CSS Features                       | [Can I Use](https://caniuse.com)                           |
-| CodePen Example - Animation                            |[Link](https://codepen.io/juliangarnier/pen/krNqZO) |
-| Catalan Numbers in Python                              |[Link](https://code.golf/catalan-numbers#python) |
-|  string operations                                     |[Link](https://developer.mozilla.org/en-US/)  |
+| Comprehensive Index of CSS Properties                   | [LinkcssProperties](https://meiert.com/en/indices/css-properties/) |
+| Guide to Color on the Web                               | [Link](https://css-tricks.com/nerds-guide-color-web/) |
+| CodePen Example - CSS                                   | [Link](https://codepen.io/btholt/pen/ELaxOB?editors=1100) |
+| Complete Intro to Web Dev - CSS Pseudo-classes and Pseudo-elements| [Link](https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/css/pseudoclasses-and-pseudoelements) |
+| Overview of CSS Pseudo-classes                         | [Link: Pseudo-Class Selectors](https://css-tricks.com/pseudo-class-selectors/) |
+| Browser Support for CSS Features                       | [Link](https://caniuse.com)                           |
+| CodePen Example - Animation                            |[Link](https://codepen.io/juliangarnier/pen/krNqZO)    |
+| Catalan Numbers in Python                              |[Link](https://code.golf/catalan-numbers#python)       |
+|  string operations                                     |[Link](https://developer.mozilla.org/en-US/)           |
