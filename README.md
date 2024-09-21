@@ -31,6 +31,6 @@ css links:-
 | Complete Intro to Web Dev - CSS Pseudo-classes and Pseudo-elements | [Btholt's Web Dev Intro](https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/css/pseudoclasses-and-pseudoelements) |
 | Overview of CSS Pseudo-classes                         | [CSS-Tricks: Pseudo-Class Selectors](https://css-tricks.com/pseudo-class-selectors/) |
 | Browser Support for CSS Features                       | [Can I Use](https://caniuse.com)                           |
-| CodePen Example - Animation                            | [CodePen: Animation Example](https://codepen.io/juliangarnier/pen/krNqZO) |
-| Catalan Numbers in Python                              | [Code Golf: Catalan Numbers](https://code.golf/catalan-numbers#python) |
-|  string operations                                     |  [string operations](https://developer.mozilla.org/en-US/)  |
+| CodePen Example - Animation                            |[Link](https://codepen.io/juliangarnier/pen/krNqZO) |
+| Catalan Numbers in Python                              |[Link](https://code.golf/catalan-numbers#python) |
+|  string operations                                     |[Link](https://developer.mozilla.org/en-US/)  |
