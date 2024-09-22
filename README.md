@@ -18,7 +18,7 @@ Fouc [Flash of unstyled Content]  </br>
 
 css links:-
 
-1. https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/css/pseudoclasses-and-pseudoelements
+1. https://btholt.github.io/complete-intro-to-web-dev-v3/
 
 
 # Useful  Links
