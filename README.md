@@ -25,7 +25,7 @@ css links:-
 
 | Description                                             | Link                                                        |
 |---------------------------------------------------------|-------------------------------------------------------------|
-| Comprehensive Index of CSS Properties                   | [LinkcssProperties](https://meiert.com/en/indices/css-properties/) |
+| Comprehensive Index of CSS Properties                   | [Link-Properties](https://meiert.com/en/indices/css-properties/) |
 | Guide to Color on the Web                               | [Link](https://css-tricks.com/nerds-guide-color-web/)   |
 | CodePen Example - CSS                                   | [Link](https://codepen.io/btholt/pen/ELaxOB?editors=1100)|
 | Complete Intro to Web Dev - CSS Pseudo-classes and Pseudo-elements| [Link](https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/css/pseudoclasses-and-pseudoelements) |
