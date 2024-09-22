@@ -21,7 +21,7 @@ css links:-
 1. https://btholt.github.io/complete-intro-to-web-dev-v3/lessons/css/pseudoclasses-and-pseudoelements
 
 
-# Useful CSS and Web Development Links
+# Useful  Links
 
 | Description                                             | Link                                                        |
 |---------------------------------------------------------|-------------------------------------------------------------|
