@@ -1,12 +1,21 @@
 
-javascript
+```
+Javascript
 REPL Read Evaluate Print Loop
-Fouc [Flash of unstyled Content]  1.css 2.html 3.Javascript
+Fouc [Flash of unstyled Content]
+- .css
+- .html
+- .Javascript
+```
+#### shortcuts:-
 
-shortcuts:-
-
-1. ctrl+ shift + i [developerTools]
-2. ctrl+F5 [refresh]
+```
+ctrl+ shift + i [developerTools]
+```
+#### refresh
+```  
+control+F5 
+```
 
 ```
 Fouc [Flash of unstyled Content]  </br> 
