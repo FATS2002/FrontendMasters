@@ -8,21 +8,25 @@ shortcuts:-
 1. ctrl+ shift + i [developerTools]
 2. ctrl+F5 [refresh]
 
-
+```
 Fouc [Flash of unstyled Content]  </br> 
 1. css 
 2. html
 3. Javascript
-   
+
+``` 
 
 
-css links:-
+##### css links:-
 
+```
 1. https://btholt.github.io/complete-intro-to-web-dev-v3/
 
+```
 
-# Useful  Links
+##### Useful  Links
 
+```
 | Description                                             | Link                                                        |
 |---------------------------------------------------------|-------------------------------------------------------------|
 | Comprehensive Index of CSS Properties                   | [Link-Properties](https://meiert.com/en/indices/css-properties/) |
@@ -34,3 +38,4 @@ css links:-
 | CodePen Example - Animation                            |[Link](https://codepen.io/juliangarnier/pen/krNqZO)    |
 | Catalan Numbers in Python                              |[Link](https://code.golf/catalan-numbers#python)       |
 |  string operations                                     |[Link](https://developer.mozilla.org/en-US/)           |
+```
